@@ -1,0 +1,15 @@
+2025-04-04 09:17:24.306553 - Received CBT.V508.FILE410.PDS from FILE410.XMI 
+2025-04-04 09:17:24.307434 - Found MXI.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXI
+2025-04-04 09:17:24.307609 - Found MXILLIX1.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXILLIX1
+2025-04-04 09:17:24.307760 - Found MXIMEN00.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXIMEN00
+2025-04-04 09:17:24.308034 - Found MXIREXX.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXIREXX
+2025-04-04 09:17:24.308159 - Found MXISECTB.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXISECTB
+2025-04-04 09:17:24.308302 - Found MXISECX1.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXISECX1
+2025-04-04 09:17:24.308441 - Found MXISERV.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXISERV
+2025-04-04 09:17:24.308585 - Found MXISOCKC.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXISOCKC
+2025-04-04 09:17:24.308701 - Found MXISOCKS.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXISOCKS
+2025-04-04 09:17:24.308865 - Found MXITSF.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXITSF
+2025-04-04 09:17:24.308988 - Found MXIU83.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXIU83
+2025-04-04 09:17:24.309104 - Found MXIU84.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXIU84
+2025-04-04 09:17:24.309230 - Found MXIXPT00.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/MXIXPT00
+2025-04-04 09:17:24.309496 - Found TXI.bin (application/octet-stream) in CBT.V508.FILE410.PDS, moved to PDS/TXI
